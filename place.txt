@@ -1,6 +1,1 @@
-https://github.com/RajeshwariMurugan/Conflict_2.0/compare/tp?expand=1
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
+This is the code on the incoming branch you are trying to merge
